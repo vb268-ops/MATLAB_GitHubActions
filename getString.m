@@ -1,3 +1,3 @@
 function s = getString
-  s = 'kinda fancy';
+  s = 'pretty fancy';
 end
